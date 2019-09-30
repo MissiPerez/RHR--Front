@@ -12,4 +12,4 @@ ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.unregister();
 
 
-// time to get busy! 
+// time to get busy! Will finish soon
